@@ -43,6 +43,7 @@
 ### Хобби проекты
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <p>Разработка ботов для Telegram на базе <strong>aiogram</strong></p>
 </div>
 
 ---
