@@ -27,9 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache Superset" alt="Apache Superset" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" title="NLTK" alt="NLTK" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Matplotlib_logo.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Seaborn_logo.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/NLTK_logo.svg" title="NLTK" alt="NLTK" width="40" height="40"/>&nbsp;
 </div>
 
 ### DevOps и инструменты
@@ -51,6 +51,14 @@
 
 <div align="center">
   <h2>📊 Моя статистика</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valkyrnd&theme=default" alt="Статистика коммитов"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=valkyrnd&show_icons=true&theme=default" alt="Статистика профиля"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valkyrnd&layout=compact&theme=default" alt="Языки программирования"/>
 </div>
 
 <div align="center">
