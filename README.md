@@ -4,9 +4,7 @@
   <h1>Привет! 👋</h1>
   <h3>Я занимаюсь бэкенд-разработкой и начинаю путь в аналитике данных</h3>
   <p>
-    <a href="https://linkedin.com/in/ваша-ссылка"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:ваша-почта@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://t.me/ваш-никнейм"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://t.me/iamclzhckr"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   </p>
 </div>
 
