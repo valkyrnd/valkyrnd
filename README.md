@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SQL_Server_Management_Studio_Logo_2016.svg/500px-SQL_Server_Management_Studio_Logo_2016.svg.png" title="SQL Server Management Studio" alt="SQL Server Management Studio" width="40" height="40"/>&nbsp;
+  SQL Server Management Studio
 </div>
 
 ### Хобби проекты
